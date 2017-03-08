@@ -1,0 +1,19 @@
+{
+  "name": "pushServer",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.10.2",
+    "body-parser": "1.0.2",
+    "socket.io": "~1.3.4",
+    "hfc":"~0.5.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "BSD"
+}
